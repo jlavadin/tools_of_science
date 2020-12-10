@@ -1,0 +1,2 @@
+Ficheiro para testar a criacao atraves de linha de comandos
+Vai também ser usado para adicionar ao repositorio por linha de comandos
